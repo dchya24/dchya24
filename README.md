@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Im Cahya Dinar 👋
 
 <!--
 **dchya24/dchya24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Backend Development, especially NestJs
 
-## This is My stats
+#### This is My stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dchya24&show_icons=false&theme=prussian&include_all_commits=true&rank_icon=github)
-![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dchya24)
-![My Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@dchya24&hide=Kotlin,Java&langs_count=5)
+![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dchya24&layout=compact&theme=prussian)
+<!-- ![My Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@dchya24&hide=Kotlin,Java&langs_count=5) -->
