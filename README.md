@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Backend Development, especially NestJs
+- 🌱 I’m a freshgrad with experience in backend development with laravel
+<!--- 🔭 Currently I'm  -->
 
 #### This is My stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dchya24&show_icons=false&theme=prussian&include_all_commits=true&rank_icon=github)
