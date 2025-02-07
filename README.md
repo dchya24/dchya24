@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m a freshgrad with experience in backend development with laravel
+- Currently i'm interest explore backend with Go and nodejs
 <!--- 🔭 Currently I'm  -->
 
 #### This is My stats
